@@ -1,19 +1,21 @@
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book com 12 páginas com um guia em 9 passos de como usar a IA para estudar para concurso público e acelerar seu aprendizado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- **Microsoft Word** para editar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para me auxiliar na pesquisa e montagem de um e-book de ensino prático de como usar IAs para estudar para consurso publico com passos simples e diretos. Usei o "Leonardo AI" para a criação da capa seguindo a visão e estilo do produto. Para a edição, utilizei o Microsoft Word, pela familiariedade do uso e pelas suas diversas ferramentas de edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book realiza uma aula direta, prática e simples de como começar a usar a IA para estruturar os estudos à fim de maximizar o tempo, o entendimento da matéria e ser aprovado em concurso público.
+
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Desenvolver esse e-book me abriu a mente e me deu experiência inicial de como usar o poder das IAs para criar conteúdos e ganhar produtividade.
+
