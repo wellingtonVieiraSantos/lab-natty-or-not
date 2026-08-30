@@ -14,7 +14,7 @@ Usei o "ChatGPT" para me auxiliar na pesquisa e montagem de um e-book de ensino 
 ## 🚀 Resultados
 O e-book realiza uma aula direta, prática e simples de como começar a usar a IA para estruturar os estudos à fim de maximizar o tempo, o entendimento da matéria e ser aprovado em concurso público.
 
-[LINK PARA O E-BOOK AQUI]()
+[📄 Acessar o ebook sobre IA para concursos](./IA para concursos.pdf)
 
 ## 💭 Reflexão (Opcional)
 Desenvolver esse e-book me abriu a mente e me deu experiência inicial de como usar o poder das IAs para criar conteúdos e ganhar produtividade.
