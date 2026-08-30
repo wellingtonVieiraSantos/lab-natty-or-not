@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# IA para concurso público
 
 ## 📒 Descrição
 E-book com 12 páginas com um guia em 9 passos de como usar a IA para estudar para concurso público e acelerar seu aprendizado.
